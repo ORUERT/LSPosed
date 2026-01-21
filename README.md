@@ -19,6 +19,7 @@ Android 8.1 ~ 16
 3. Reboot
 4. Open LSPosed manager from notification
 5. Have fun :)
+6. 
 
 ## Download
 
